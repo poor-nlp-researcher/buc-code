@@ -1,0 +1,9 @@
+# Separate environment for BanglaT5 (Transformers 4.x). step08_seq2seq.py creates it automatically.
+transformers==4.46.3
+tokenizers==0.20.3
+huggingface-hub==0.26.5
+IndicTransToolkit==1.1.1
+indic-nlp-library-itt==0.1.1
+morfessor==2.0.6
+sacremoses==0.2.0
+cython==3.3.0
